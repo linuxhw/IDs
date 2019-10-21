@@ -1,0 +1,152 @@
+0x89;0xaa;;Intel Series 100 Flash;memory;iflash2_mtd
+0x89;0xa0;;Intel Series 2+ Flash;memory;iflash2+_mtd
+0x89;0xa2;;Intel Series 2 Flash;memory;iflash2_mtd
+0x0175;0x0000;;NSC DP83903-based Ethernet/Modem;multicard;pcnet_cs/serial_cs
+0x01a6;0x0000;;RayLink PC Card WLAN Adapter;wireless;ray_cs
+0x015f;0x000a;;350 Series Wireless LAN Adapter;wireless;airo_cs
+0x0104;0x000a;;Socket ES-1000 Ethernet/RS-232;multicard;pcnet_cs/serial_cs
+0x0140;0x000a;;Ositech Jack of Hearts Ethernet/Modem;multicard;smc91c92_cs/serial_cs
+0x0104;0x000d;;Socket LP-E Ethernet;ethernet;pcnet_cs
+0x0137;0x000e;;Quatech Dual RS-422;modem;serial_cs
+0x0140;0x000f;;Ositech Jack of Spades Fast Ethernet/Modem;cardbus;epic_cb/serial_cb
+0x2080;0x0001;;ATronics PCMCIA-IDE-CDROM/HDD;cd-rom/hdd;ide-cs
+0x0268;0x0001;;ARtem Onair Version 1.0;wireless;orinoco_cs
+0x012f;0x0001;Adaptec;SCSI;unknown;unknown
+0x0089;0x0001;;Intel PRO/Wireless 2011;wireless;orinoco_cs
+0x14ea;0xb001;;PLANEX RoadLannerWave GW-NS11H;wireless;orinoco_cs
+0x02aa;0x0002;;ASUS SpaceLink WL-100;wireless;orinoco_cs
+0x028a;0x0002;Compaq;iPAQ networking 11 Mbps wireless card;wireless;unknown
+0x0156;0x0002;;Intersil PRISM2 11 Mbps Wireless Adapter;wireless;orinoco_cs
+0x0138;0x0002;;Compaq WL100 11 Mbps Wireless Adapter;wireless;orinoco_cs
+0x028a;0x0002;;Compaq HNW-100 11 Mbps Wireless Adapter;wireless;orinoco_cs
+0xd601;0x0002;;ZCOMAX AirRunner/XI-300;wireless;orinoco_cs
+0x02ac;0x0002;;SpeedStream SS1021 Wireless Adapter;wireless;orinoco_cs
+0xc00f;0x0002;;Allied Telesis LA-PCM Ethernet;ethernet;pcnet_cs
+0x0137;0x0003;;Quatech SPP-100 Parallel Port Card;misc;parport_cs
+0x0004;0x0004;;Eagle NE200 Ethernet;ethernet;fmvj18x_cs
+0x015f;0x0005;;Aironet PC4500 PCMCIA Wireless Card;wireless;airo_cs
+0xd601;0x0005;;D-Link DCF660 Wwireless Card;wireless;orinoco_cs
+0x0104;0x0006;;Socket Communications Dual RS-232;modem;serial_cs
+0x015f;0x0007;;Aironet PC4800 PCMCIA Wireless Card;wireless;airo_cs
+0x0105;0x0007;;Xircom Wireless Network Adapter;wireless;airo_cs
+0x40;0x0009;;D-Link DE-650 Ethernet;ethernet;pcnet_cs
+0x0143;0xc0ab;;D-Link DMF560TX Ethernet/Modem;multicard;pcnet_cs/serial_cs
+0x08a1;0xc0ab;;New Media LANSurfer 10+56 Ethernet/Modem;multicard;pcnet_cs/serial_cs
+0x1033;0x00cd;;Western Digital 1394 Adapter;firewire;ohci1394_cb
+0x0137;0x001b;;Quatech Quad RS-232;modem;serial_cs
+0x01bf;0x010a;;Accton Fast EtherCard-16;ethernet;xirc2ps_cs
+0x0140;0x0011;;Ositech Seven of Spades Fast Ethernet;cardbus;epic_cb
+0x0140;0x0012;;Ositech Jack of Spades Fast Ethernet/Modem;cardbus;epic_cb/serial_cb
+0x1011;0x0019;;NetGear FA510C Fast Ethernet;cardbus;tulip_cb
+0x00a4;0x002d;;IBM Max Portable CD-ROM;cd-rom;ide-cs
+0x0101;0x002f;Toshiba America;3CXM056-BNW 56K Modem;modem;unknown
+0x016c;0x0020;;Psion Gold Card Netglobal 56K+10Mb Ethernet;multicard;smc91c92_cs/serial_cs
+0x016c;0x0021;;Psion Gold Card Netglobal 56K+10/100Mb CardBus;cardbus;epic_cb/serial_cb
+0x0057;0x0021;;New Media LanSurfer;ethernet;pcnet_cs
+0x016c;0x0023;;Psion Gold Card NetGlobal 10/100 Fast Ethernet;ethernet;smc91c92_cs
+0x0137;0x0025;;Omega Engineering QSP-100;modem;serial_cs
+0x0101;0x003d;;3Com/Megahertz 3CXEM556 B-INT Ethernet/Modem;ethernet;3c589_cs/serial_cs
+0x0101;0x003f;3Com Corporation;PCMCIA Modem;modem;serial_cs
+0x026f;0x030a;;Buffalo LPC3-CLT Ethernet;ethernet;pcnet_cs
+0x0101;0x0035;;3Com/Megahertz 3CXEM556 Ethernet/Modem;multicard;3c589_cs/serial_cs
+0x0101;0x0039;;3Com 3CCM156 56K Global Modem;modem;serial_cs
+0x0137;0x0045;;Quatech Quad RS-422;modem;serial_cs
+0x10b;0x0d50;;National Instruments PCMCIA-232;modem;serial_cs
+0x10b;0x0d51;;National Instruments PCMCIA-232/2;modem;serial_cs
+0x10b;0x0d52;;National Instruments PCMCIA-485;modem;serial_cs
+0x10b;0x0d53;;National Instruments PCMCIA-485/2;modem;serial_cs
+0x0137;0x0052;;Quatech Dual RS-232;modem;serial_cs
+0x1033;0x0063;;Margi 1394-to-Go OHCI Adapter;firewire;ohci1394_cb
+0x0104;0x0070;;Socket Communications Dual I/O Card;modem;serial_cs
+0x0104;0x0075;;Socket LP-E CF+ Ethernet;ethernet;pcnet_cs
+0x01eb;0x080a;;Nortel Networks eMobility 802.11 Wireless Adapter;wireless;orinoco_cs
+0x016c;0x0081;;Psion 10/100 LANGLOBAL Combine iT;multicard;axnet_cs/serial_cs
+0x01da;0x0081;;Silicom Fast Ethernet;cardbus;tulip_cb
+0xe815;0x0081;;NDC NCB100 Fast Ethernet;cardbus;tulip_cb
+0x9513;0x0081;;Ambicom AMB8100 Fast Ethernet;cardbus;tulip_cb
+0x01da;0x0090;;Silicom FEM56 Fast Ethernet;cardbus;tulip_cb
+0x0149;0xc1ab;;Linksys NP10T/NE2000 Ethernet;ethernet;pcnet_cs
+0x8a01;0xc1ab;;Asix AX88190 Fast Ethernet;ethernet;axnet_cs
+0x0105;0x010a;;Xircom CompactCard Ethernet;ethernet;pcnet_cs
+0x01bf;0x010a;Accton;EN226;ethernet;xirc2ps_cs
+0x0186;0x0101;;Kingston KNE-CB4TX Fast Ethernet;cardbus;tulip_cb
+0x115d;0x0101;;Xircom RBM56G Modem;cardbus;serial_cb
+0x021b;0x0101;;Billionton LM5LT-10B Ethernet/Modem;multicard;pcnet_cs/serial_cs
+0x0089;0x0102;;Intel EtherExpress PRO/100 CardBus;cardbus;tulip_cb
+0x00a4;0x0103;;IBM 10/100 EtherJet 56K CardBus;cardbus;tulip_cb/serial_cb
+0x0089;0x0103;;Intel EtherExpress PRO/100 CardBus II;cardbus;eepro100_cb
+0x0186;0x0110;;Kingston CIO10T Ethernet;ethernet;pcnet_cs
+0x00a4;0x0113;;IBM 10/100 EtherJet CardBus;cardbus;tulip_cb
+0x0089;0x0113;;Intel EtherExpress PRO/100 CardBus;cardbus;tulip_cb
+0x0104;0x0145;;Socket CF+ 10/100 Fast Ethernet;ethernet;pcnet_cs
+0x10b;0xd180;;National Instruments PCMCIA-232/4;modem;serial_cs
+0x89;0xa2;;Intel Series 2 Flash;memory;iflash2_mtd
+0x021b;0x0202;;Asix AX88190 Fast Ethernet;ethernet;pcnet_cs
+0x0149;0x021b;Realtek;RTL-8029AS - 10/100MB ethernet chipset;ethernet;pcnet_cs
+0x0149;0x0230;;NE2000 compatible PCMCIA Card;ethernet;pcnet_cs
+0x021b;0x0230;;NE2000 compatible PCMCIA Card;ethernet;pcnet_cs
+0x0149;0x0231;;Linksys EtherFast 10/100;cardbus;tulip_cb
+0x026f;0x0300;;Buffalo LPC2-CLT Ethernet;ethernet;pcnet_cs
+0x026f;0x0301;;Buffalo LPC3-CLX Fast Ethernet;ethernet;axnet_cs
+0x0089;0x0301;;Silicom 2S100 Dual Serial;modem;serial_cs
+0x026f;0x0303;;Buffalo LPC4-TX Fast Ethernet;ethernet;axnet_cs
+0x026f;0x0305;;Buffalo WLI-PCM-S11;wireless;orinoco_cs
+0x026f;0x0307;;Buffalo LPC2-CLT Ethernet;ethernet;pcnet_cs
+0x026f;0x0309;;Buffalo LPC4-CLX Fast Ethernet;ethernet;axnet_cs
+0x0045;0x0401;;CFA 512MB CKS;memory;unknown
+0x0105;0x0500;;TDK NetworkFlyer 10/100 Fast Ethernet;cardbus;tulip_cb
+0x0109;0x0501;;Motorola Mariner Ethernet/Modem;multicard;smc91c92_cs/serial_cs
+0x021b;0x0510;;PrimeXPress 10/100 Fast Ethernet;cardbus;tulip_cb
+0x0101;0x0556;;3Com/Megahertz 3CCFEM556 Ethernet/Modem;multicard;3c589_cs/serial_cs
+0x0101;0x0562;;3Com 3c562/3c563 Ethernet/Modem;multicard;3c589_cs/serial_cs
+0x0101;0x0574;;3Com 572/574 Fast Ethernet;ethernet;3c574_cs
+0x0101;0x0589;3Com Corporation;3c589 PCMCIA Card;ethernet;3c589_cs
+0x028a;0x0673;;Linksys WCF12 Wireless CompactFlash Card;wireless;orinoco_cs
+0x0032;0x0704;;KME KXLC005 CD-ROM;cd-rom;ide-cs
+0x01eb;0x080a;;Nortel Networks eMobility 802.11 Wireless Adapter;wireless;orinoco_cs
+0x13d1;0xab02;;TRENDnet TE100-PCBUSR;cardbus;tulip_cb
+0x13d1;0xab03;;Linksys EtherFast PCMPC200 v2;cardbus;tulip_cb
+0x14ea;0xb001;;PLANEX RoadLannerWave GW-NS11H;wireless;orinoco_cs
+0x012f;0xcb01;;Adaptec APA-1480 SCSI Host Adapter;cardbus;apa1480_cb
+0x50c7;0xcafe;;D-Link DFE-660 Fast Ethernet;cardbus;tulip_cb
+0x0143;0xc0ab;;D-Link DMF560TX Ethernet/Modem;multicard;pcnet_cs/serial_cs
+0x08a1;0xc0ab;;New Media LANSurfer 10+56 Ethernet/Modem;multicard;pcnet_cs/serial_cs
+0x0105;0xea15;;TDK DFL5610WS Ethernet/Modem;multicard;pcnet_cs/serial_cs
+0x0149;0xc2ab;;Linksys EtherFast 10/100;cardbus;tulip_cb
+0x0149;0x0231;;Linksys EtherFast 10/100;cardbus;tulip_cb
+0x0004;0x1003;Fujistu;MBH10304;unknown;unknown
+0x0057;0x1004;;Connectware LANdingGear Ethernet;ethernet;pcnet_cs
+0x02ac;0x1012;;Siemens SpeedStream SS1012 Fast Ethernet;cardbus;tulip_cb
+0xffff;0x1090;;NE2000 Compatible Fast Ethernet;ethernet;pcnet_cs
+0x0089;0x110a;;Intel EtherExpress PRO/100 LAN/Modem;multicard;xirc2ps_cs/serial_cs
+0x0138;0x110a;;Compaq Microcom CPQ550 Ethernet/Modem;multicard;xirc2ps_cs/serial_cs
+0x0274;0x1103;;WiseCom iPort 10/100 Fast Ethernet;ethernet;pcnet_cs
+0x0089;0x1103;;Intel EtherExpress PRO/100 LAN+Modem 56K CardBus II;cardbus;eepro100_cb/serial_cb
+0x0274;0x1106;;Asix AX88190 Fast Ethernet;ethernet;axnet_cs
+0x0274;0x1121;;iPort 10Mbps Ethernet;ethernet;pcnet_cs
+0x0274;0x1613;;Linksys WPC11 11Mbps 802.11b WLAN Card;wireless;orinoco_cs
+0x1317;0x1985;;NetGear FA511 Fast Ethernet;cardbus;tulip_cb
+0x0004;0x2000;Fujistu;LA501;unknown;unknown
+0x022d;0x2103;;AmbiCom CB100-EZ EzPort Fast Ethernet;cardbus;tulip_cb
+0x01bf;0x2216;;Melco LPC2-T Ethernet;ethernet;pcnet_cs
+0x01bf;0x2220;;SMC EZ 10/100 Fast Ethernet;cardbus;tulip_cb
+0x01bf;0x2225;;SMC EZ 10/100 Fast Ethernet;cardbus;tulip_cb
+0x01bf;0x2227;;Accton EN2227 Fast Ethernet;cardbus;tulip_cb
+0x01bf;0x2328;;Belkin F5D5020 Fast Ethernet;ethernet;pcnet_cs
+0x0213;0x2452;;Reliable Combo-L/M-56K;multicard;pcnet_cs
+0x1106;0x3044;;Good Man VT6306 FireWire Adapter;firewire;ohci1394_cb
+0x0143;0x3341;;serial_cs;TDK 3000/3400/5670 Fast Ethernet/Modem;pcnet_cs
+0x0105;0x410a;;TDK Global Pro ISDN V.90 Modem;modem;serial_cs
+0x0149;0x4530;;D-Link DFE-670-TXD Fast Ethernet;ethernet;pcnet_cs
+0x0101;0x5057;;3Com 3c575-TX Fast EtherLink XL;cardbus;3c575_cb
+0x0101;0x5157;;3Com 3CCFE575B/3CXFE575B Fast EtherLink XL;cardbus;3c575_cb
+0x0101;0x5257;;3Com 3CCFE575CT/3CXFE575CT Fast EtherLink XL;cardbus;3c575_cb
+0x1234;0x5678;;Corega FEther PCC-TXD;ethernet;axnet_cs
+0x0102;0x6560;;3Com 3CCFEM656B w/Winmodem;cardbus;3c575_cb
+0x0102;0x6562;;3Com 3CCFEM656B w/Winmodem;cardbus;3c575_cb
+0x0102;0x6564;;3Com 3CXFEM656C w/Winmodem;cardbus;3c575_cb
+0x104c;0x8000;;Newer Technology FireWire 2 Go;firewire;pcilynx_cb
+0x12ee;0x8010;;Orange Micro OrangeLink Firewire Adapter;firewire;ohci1394_cb
+0x104c;0x8019;;Cherri IEEE-1394;firewire;ohci1394_cb
+0x01bf;0x8036;;SMC 8036TX EZ 10/100 Fast Ethernet;cardbus;tulip_cb
+0x01bf;0x8041;;SMC 8041TX 10/100 Fast Ethernet;ethernet;pcnet_cs

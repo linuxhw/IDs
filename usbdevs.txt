@@ -1,4 +1,4 @@
-= Date 2019-10-06 Version 192 Records 55,995
+= Date 2019-11-01 Version 192 Records 56,007
 ;
 ; latest version available from http://rh-software.com/downloads/usbdevs.txt
 ;
@@ -639,6 +639,7 @@
 03F0:1B04=deskjet 3810
 03F0:1B05=ScanJet 4850C/4890C
 03F0:1B07=Premium Starter Webcam
+03F0:1B1D=HP ev2200 1xEV-DO Broadband Wireless Module
 03F0:1B2A=Color LaserJet Enterprise MFP M680
 03F0:1C02=Photosmart A710 series
 03F0:1C02:01=Photosmart A710 Series
@@ -656,6 +657,7 @@
 03F0:1E11=PSC-950
 03F0:1E11:0100=PSC 950 USB
 03F0:1E17=LaserJet 1160 series
+03F0:1E1D=HP hs2300 HSDPA Broadband Wireless Module
 03F0:1E24=USB Receipt Printer
 03F0:1E2A=LaserJet Enterprise flow MFP M830
 03F0:1F02=Photosmart A440 Printer series
@@ -23931,11 +23933,14 @@
 0A7D=NSTL
 0A7E=Octagon Systems
 0A80=Rexon Technology
-0A81=CHESEN ELECTRONICS
+0A81=Chesen Electronics
 0A81:0101=Keyboard
 0A81:0103=Keyboard
 0A81:0203=Mouse
-0A81:0205=PS/2 Keyboard+Mouse Adapter
+0A81:0205=PS/2 Keyboard USB Adapter
+0A81:0205:01=PS/2 Mouse USB Adapter
+0A81:0205:0010=PS/2 Keyboard USB Adapter
+0A81:0205:0010:01=PS/2 Mouse USB Adapter
 0A81:0701=USB Missile Launcher
 0A81:FF01=Wireless Missile Launcher
 0A82=SYSCAN
@@ -27240,7 +27245,7 @@
 0BDA:57AE=Integrated Camera
 0BDA:57AF=Integrated Camera
 0BDA:57B0=Integrated Camera
-0BDA:57B3=Acer 640 480 laptop camera
+0BDA:57B3=Acer 640 x 480 laptop camera
 0BDA:57BA=Realtek PC Camera Driver
 0BDA:57BD=Realtek USB2.0 PC Camera
 0BDA:57C5=Lenovo EasyCamera
@@ -39035,6 +39040,7 @@
 1462:5515=MP3 Player
 1462:5516=MP3 Player
 1462:7B17=USB Input Device
+1462:7B92=MSI Creatin
 1462:8807=DIGIVOX mini III [af9015]
 1463=BBWM
 1464=Asiamajor
@@ -53427,6 +53433,12 @@
 298D:2020=NEXT Biometrics NB-2020-U
 29A9:8200=Realtek PC Camera Driver
 29A9:9000=Realtek PC Camera Driver
+29CC:1000=KODAK i1150 Scanner
+29CC:1001=KODAK i1180 Scanner
+29CC:1013=KODAK i1190 Scanner
+29CC:1014=KODAK i1190E Scanner
+29CC:101D=KODAK i1150F Scanner
+29CC:101E=KODAK i1190F Scanner
 2A03=dog hunter AG
 2A03:0001=Linino ONE (bootloader)
 2A03:0036=Arduino Leonardo (bootloader)
@@ -55667,7 +55679,7 @@
 8516:2070=ALLWIN Wireless LAN Card AWM51G_US
 8516:2500=ALLWIN Wireless LAN Card iV2500
 8516:2571=ALLWIN Wireless LAN Card iVAWM50G-US
-8516:2770=ALLWIN Wireless LAN Card -AWM52N-US
+8516:2770=ALLWIN Wireless LAN Card AWM52N-US
 8516:2870=ALLWIN Wireless LAN Card 2870
 8516:3070=ALLWIN Wireless LAN Card AWU51N-W
 8516:3071=ALLWIN Wireless LAN Card 3071
